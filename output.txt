@@ -1,0 +1,141 @@
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 1
+Enter name: _Mushaf
+Enter PIN code: 1234
+Enter address: _Islamabad
+Enter contact number: _03003370458
+Enter email: _mushafiftikharawan@gmail.com
+Customer added successfully
+Account number(please do not forget this): 1
+
+________________________________________________________________________________________________
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 1
+Enter name: _Ali
+Enter PIN code: 4321
+Enter address: _Lahore
+Enter contact number: _03004567890
+Enter email: _Ali@gmail.com
+Customer added successfully
+Account number(please do not forget this): 2
+
+________________________________________________________________________________________________
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 3
+Enter account number: 1
+Enter PIN: 1234
+Enter deposit amount: 100000
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 3
+Enter account number: 2
+Enter PIN: 4321
+Enter deposit amount: 123000
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 4
+Enter account number: 1
+Enter PIN: 1234
+Enter withdraw amount: 40000
+Withdraw successful.
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 4
+Enter account number: 2
+Enter PIN: 4321
+Enter withdraw amount: 20000
+Withdraw successful.
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 2
+Enter account number: 1234
+Enter PIN: 564
+Invalid account number.
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 2
+Enter account number: 1
+Enter PIN: 1234
+Name: _Mushaf
+Account number: 1
+Balance: 60000
+Address: _Islamabad
+Contact number: 03003370458
+Email: mushafiftikharawan@gmail.com
+Transaction History:
+Description: Deposit, Amount: 100000
+Description: Withdraw, Amount: 40000
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 2
+Enter account number: 2
+Enter PIN: 4321
+Name: _Ali
+Account number: 2
+Balance: 103000
+Address: _Lahore
+Contact number: 03004567890
+Email: Ali@gmail.com
+Transaction History:
+Description: Deposit, Amount: 123000
+Description: Withdraw, Amount: 20000
+
+=================== BANK MANAGEMENT SYSTEM ===================
+1. Add Customer
+2. Display Customer
+3. Deposit
+4. Withdraw
+5. Exit
+Enter your choice: 5
+Exiting the program.
+
+
+=== Code Execution Successful ===
